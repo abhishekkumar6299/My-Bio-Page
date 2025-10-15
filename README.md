@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Praduman Kumar</h1>
 <h3 align="center">A passionate Android and windows app developer from India</h3>
 
+
+
+<img align="right" alt="Praduman" width="200" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RC_E1S869VfkJR_xFGi9Ikjrac458uw6IzGM2GZuNOvEG_e5i97J66868_4jQc2RHqdCy8gGLdfGaPvkBKpL0Sv5bzard1hJxd525lDp5CdD3R00QxxYDBq3aVllnewda2-iYzHOc-Y-uWsezLTyEVFDGPzhugzPQSGM5HpKld-1NM_VsppKvlGoUyg/s1600/image%20%281%29.png">
+
 - 🔭 I’m currently working on **Many android and windows Project**
 
 - 🌱 I’m currently learning **Web technology**

@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Firebase**
 
-- 👨‍💻 All of my projects are available at [My website](My website)
+- 👨‍💻 All of my projects are available at [My website]
 
-- 📝 I regularly write articles on [My blog](My blog)
+- 📝 I regularly write articles on [My blog]
 
 - 📫 How to reach me **praduman4096@gmail.com**
 
